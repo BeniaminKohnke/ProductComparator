@@ -46,9 +46,6 @@ public class HelloServlet extends HttpServlet {
             }
         }
 
-        String x;
-        x.split(",");
-
         for(Map.Entry<Integer, String> pair : epicGames.entrySet()){
             if(pair.getValue().toUpperCase().contains(this.is_searching.toUpperCase())){
                 Product p = DataAccess.getProductData("epicGames",pair.getKey());
