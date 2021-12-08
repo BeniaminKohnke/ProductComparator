@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4acff0-f7dd-4e74-9d96-d899c284d8d7" name="Changes" comment="" />
+    <list default="true" id="0c4acff0-f7dd-4e74-9d96-d899c284d8d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/HelloServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -110,6 +115,7 @@
       <workItem from="1638952107729" duration="6570000" />
       <workItem from="1638967929698" duration="8982000" />
       <workItem from="1638977859505" duration="1216000" />
+      <workItem from="1638980020101" duration="97000" />
     </task>
     <servers />
   </component>
