@@ -10,11 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4acff0-f7dd-4e74-9d96-d899c284d8d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main_site.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main_site.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/main_site.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main_site.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/search_results_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/search_results_style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1638977859505" duration="1216000" />
       <workItem from="1638980020101" duration="97000" />
       <workItem from="1638980738094" duration="57000" />
-      <workItem from="1641141259629" duration="233000" />
+      <workItem from="1641141259629" duration="1407000" />
     </task>
     <servers />
   </component>
