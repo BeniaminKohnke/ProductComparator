@@ -1,10 +1,10 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<!DOCTYPE html>
+<!DOCTYPE html> <!-- This file generate our starting page -->
 <html>
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="main_site.css">
-
+    <script src="https://www.google.com/recaptcha/api.js?render=6LceX9QdAAAAAPaRv60_SfIqi3oL_Tabe3FT_-dD"></script> <!-- its load reCaptcha script-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
     <title>Game Price Aggregator</title>
 </head>
