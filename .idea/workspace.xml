@@ -11,8 +11,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0c4acff0-f7dd-4e74-9d96-d899c284d8d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/DataAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/DataAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaclientwebapplication/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/main_site.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main_site.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/main_site.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main_site.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/search_results_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/search_results_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/main_site.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/main_site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/main_site.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/main_site.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/search_results_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-client-webapplication-1.0-SNAPSHOT/search_results_style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +63,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -79,6 +88,54 @@
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58438" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -119,7 +176,11 @@
       <workItem from="1638977859505" duration="1216000" />
       <workItem from="1638980020101" duration="97000" />
       <workItem from="1638980738094" duration="57000" />
-      <workItem from="1641141259629" duration="1407000" />
+      <workItem from="1641141259629" duration="4171000" />
+      <workItem from="1641205021093" duration="730000" />
+      <workItem from="1641206285795" duration="1610000" />
+      <workItem from="1641374567917" duration="2613000" />
+      <workItem from="1641377896524" duration="26000" />
     </task>
     <servers />
   </component>
